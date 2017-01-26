@@ -1,0 +1,9 @@
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\Mapper.Test.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\Mapper.Test.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\MapperProject.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\nunit.framework.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\MapperProject.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\bin\Debug\nunit.framework.xml
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\obj\Debug\Mapper.Test.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\obj\Debug\Mapper.Test.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\Mapper.Test\obj\Debug\Mapper.Test.pdb

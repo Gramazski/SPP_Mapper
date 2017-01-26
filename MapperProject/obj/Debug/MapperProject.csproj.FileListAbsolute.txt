@@ -1,0 +1,6 @@
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\bin\Debug\MapperProject.dll.config
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\bin\Debug\MapperProject.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\bin\Debug\MapperProject.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\obj\Debug\MapperProject.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\obj\Debug\MapperProject.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\MapperProject\MapperProject\obj\Debug\MapperProject.pdb

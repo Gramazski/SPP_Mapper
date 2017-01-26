@@ -1,0 +1,70 @@
+[10.12.2016 09:51:54.765]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.070]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.085]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.105]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.118]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.130]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.152]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:51:55.185]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:56:39.195]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:56:39.496]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:57:19.359]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 09:57:19.612]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:49.731]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:49.969]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:49.984]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:49.999]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:50.008]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:50.017]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:50.029]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:04:50.046]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 10:11:39.445]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.667]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.933]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.944]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.960]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.974]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:41.988]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:42.003]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:01:42.020]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 11:57:51.509]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:11:56.573]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:12:32.516]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:12:52.643]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.395]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.641]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.650]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.655]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.660]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.664]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.670]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:13:25.677]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:16:08.145]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.088]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.464]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.484]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.543]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.555]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.572]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.588]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:18:16.606]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:49:56.881]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:12.976]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.265]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.304]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.353]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.369]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.374]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.381]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.400]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 12:50:13.419]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 13:26:38.796]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:50.795]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.063]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.071]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.077]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.084]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.091]: Func getting from cache for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.096]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.102]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
+[10.12.2016 14:19:51.109]: Creating new func for type pair: source - Mapper.Test.TestDataClasses.Source dest - Mapper.Test.TestDataClasses.Destination
